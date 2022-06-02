@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/captainWeather/static/css/main.600e827e.css",
+    "main.js": "/captainWeather/static/js/main.48054ef5.js",
+    "static/js/787.15b5e975.chunk.js": "/captainWeather/static/js/787.15b5e975.chunk.js",
+    "static/media/background_search_mobile.jpg": "/captainWeather/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "index.html": "/captainWeather/index.html",
+    "main.600e827e.css.map": "/captainWeather/static/css/main.600e827e.css.map",
+    "main.48054ef5.js.map": "/captainWeather/static/js/main.48054ef5.js.map",
+    "787.15b5e975.chunk.js.map": "/captainWeather/static/js/787.15b5e975.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.600e827e.css",
+    "static/js/main.48054ef5.js"
+  ]
+}
